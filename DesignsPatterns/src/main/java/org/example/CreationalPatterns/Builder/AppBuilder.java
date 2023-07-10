@@ -1,6 +1,6 @@
-package org.example.Creational.AbstractFactory;
+package org.example.CreationalPatterns.Builder;
 
-public class AppAbstractFactory {
+public class AppBuilder {
     public static void main(String[] args) {
         System.out.println("Builder");
     }

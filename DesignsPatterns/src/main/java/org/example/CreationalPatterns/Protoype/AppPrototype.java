@@ -1,6 +1,6 @@
-package org.example.Creational.Factory;
+package org.example.CreationalPatterns.Protoype;
 
-public class AppFactory {
+public class AppPrototype {
     public static void main(String[] args) {
         System.out.println("Singlenton");
     }
