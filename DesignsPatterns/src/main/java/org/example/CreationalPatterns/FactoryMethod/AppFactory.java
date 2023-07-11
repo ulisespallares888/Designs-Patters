@@ -1,4 +1,4 @@
-package org.example.CreationalPatterns.Factory;
+package org.example.CreationalPatterns.FactoryMethod;
 
 public class AppFactory {
     public static void main(String[] args) {
